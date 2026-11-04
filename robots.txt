@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /thanks/
+Sitemap: https://yamasaki03.github.io/PortfolioHPHR/sitemap.xml
